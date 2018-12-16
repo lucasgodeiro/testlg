@@ -1,0 +1,10 @@
+Package: testlg
+Type: Package
+Title: Test New Packages (Title Case)
+Version: 0.1.0
+Author: Lucas Godeiro
+Maintainer: Lucas Godeiro <lucas.godeiro@hotmail.com>
+Description: Provides Functionality for my package
+License: GLP-3
+Encoding: UTF-8
+LazyData: true
