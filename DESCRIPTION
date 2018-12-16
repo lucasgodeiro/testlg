@@ -8,3 +8,5 @@ Description: Provides Functionality for my package
 License: GLP-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/lucasgodeiro/testlg
+BugReports: https://github.com/lucasgodeiro/testlg/issues
