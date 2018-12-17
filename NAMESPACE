@@ -2,3 +2,7 @@
 
 export(hello)
 export(printer)
+importFrom(dplyr,select)
+importFrom(tibble,data_frame)
+importFrom(utils,adist)
+importFrom(utils,head)

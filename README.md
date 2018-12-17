@@ -11,7 +11,8 @@ Installation
 You can install the released version of testlg from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("testlg")
+install.packages("devtools")
+devtools::install_github("lucasgodeiro/testlg")
 ```
 
 Example

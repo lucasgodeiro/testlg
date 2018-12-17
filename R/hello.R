@@ -14,4 +14,3 @@
 hello <- function(x) {
   print(paste("Hello", x, ", this is the world!"))
 }
-
