@@ -1,5 +1,5 @@
 
-[![Travis build status](https://travis-ci.com/lucasgodeiro/testlg.svg?branch=master)](https://travis-ci.com/lucasgodeiro/testlg) <!-- README.md is generated from README.Rmd. Please edit that file -->
+[![Travis build status](https://travis-ci.com/lucasgodeiro/testlg.svg?branch=master)](https://travis-ci.com/lucasgodeiro/testlg) [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/lucasgodeiro/testlg?branch=master&svg=true)](https://ci.appveyor.com/project/lucasgodeiro/testlg) <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 testlg
 ======
