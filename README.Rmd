@@ -4,6 +4,7 @@ output: github_document
 
 [![Travis build status](https://travis-ci.com/lucasgodeiro/testlg.svg?branch=master)](https://travis-ci.com/lucasgodeiro/testlg)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/lucasgodeiro/testlg?branch=master&svg=true)](https://ci.appveyor.com/project/lucasgodeiro/testlg)
+[![Coverage status](https://codecov.io/gh/lucasgodeiro/testlg/branch/master/graph/badge.svg)](https://codecov.io/github/lucasgodeiro/testlg?branch=master)
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r setup, include = FALSE}
